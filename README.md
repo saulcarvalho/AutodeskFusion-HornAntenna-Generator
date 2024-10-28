@@ -1,6 +1,6 @@
 <h1> Autodesk Fusion - Horn Antenna Generator </h1> 
 
-This is a Autodesk Fusion utility script to automatically generate a horn antenna based on simple dimension parameters.
+This is an Autodesk Fusion utility script to automatically generate a horn antenna based on simple dimension parameters.
 
 <h3> Example </h3> 
 Using the following parameters:
