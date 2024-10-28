@@ -15,5 +15,6 @@ t = 2   / convertFactor     # Horn wall thickness (mm)</pre>
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saulcarvalho/AutodeskFusion_HornAntenna_Generator/main/assets/Standard_PyramidalHornAntenna_WR42_20dBi.png"/>
+  <img src="https://raw.githubusercontent.com/saulcarvalho/AutodeskFusion_HornAntenna_Generator/main/assets/Standard_PyramidalHornAntenna_WR42_20dBi.png"/> </br>
+  <b>Figure 1.</b> A standard gain horn antenna with WR42 waveguide channel entrance and a gain of 20 dBi.
 </p>
